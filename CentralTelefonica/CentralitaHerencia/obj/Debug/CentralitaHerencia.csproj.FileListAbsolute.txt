@@ -1,0 +1,15 @@
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Balabasquer\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Balabasquer\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Balabasquer\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Balabasquer\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Balabasquer\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Balabasquer\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+E:\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+E:\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+E:\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
