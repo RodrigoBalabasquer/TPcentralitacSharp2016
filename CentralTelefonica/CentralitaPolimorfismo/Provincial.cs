@@ -57,7 +57,9 @@ namespace CentralitaPolimorfismo
         }
         public override bool Equals(object obj)
         {
-            return base.Equals(obj);
+            if (this.GetType() == obj.GetType())
+                return true;
+                return false;
         }
     }
 }

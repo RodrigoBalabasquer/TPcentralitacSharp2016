@@ -3,3 +3,4 @@ D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaPolimorfis
 D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
 D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
 D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojResolveAssemblyReference.cache
