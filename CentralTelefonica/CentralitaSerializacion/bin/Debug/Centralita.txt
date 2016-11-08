@@ -1,0 +1,304 @@
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925
+Numero de Origen: 42409124
+Numero del Destino: 20705020
+Duracion de la llamada : 30
+
+El costo de la llamada es: 1,325
+Numero de Origen: 42407151
+Numero del Destino: 42471562
+Duracion de la llamada : 21
+
+Franja Horaria: Franja_1
+El costo de la llamada es: 0,3465
+Numero de Origen: 41354235
+Numero del Destino: 87625412
+Duracion de la llamada : 45
+
+El costo de la llamada es: 1,4925

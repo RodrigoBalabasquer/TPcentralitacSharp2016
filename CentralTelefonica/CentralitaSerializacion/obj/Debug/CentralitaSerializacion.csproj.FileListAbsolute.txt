@@ -1,0 +1,6 @@
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe.config
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb
